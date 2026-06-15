@@ -33,8 +33,14 @@
 
 ### 🏢 [Woltrap](https://www.woltrap.com) — Founder
 Software company I founded · Mobile, Web, Backend & Security services ·  
-Products: **ReleaseFlow** (live) · **Pal** (2026) — a screenless smart companion for kids aged 3–8  
+Products: **ReleaseFlow** (live) · **Woltap** · **Wolt-AI** · **Pal** (2026) — a screenless smart companion for kids aged 3–8  
 Built with Next.js · Flutter · NestJS · PostgreSQL
+
+### ⚡ [Woltap](https://www.woltrap.com/woltap)
+_(short tagline — what Woltap does)_
+
+### 🤖 [Wolt-AI](https://www.woltrap.com/wolt-ai)
+_(short tagline — what Wolt-AI does)_
 
 ### 🔁 [ReleaseFlow](https://releaseflow.tech)
 AI-powered release notes generator · Turn messy commits into polished notes instantly  
