@@ -37,10 +37,11 @@ Products: **ReleaseFlow** (live) · **Woltap** · **Wolt-AI** · **Pal** (2026) 
 Built with Next.js · Flutter · NestJS · PostgreSQL
 
 ### ⚡ [Woltap](https://www.woltrap.com/woltap)
-_(short tagline — what Woltap does)_
+Woltap is unified retail management software — sales, inventory, customer accounts, expenses, suppliers, and purchase orders, 
+all on the devices you already own. Online or off.
 
 ### 🤖 [Wolt-AI](https://www.woltrap.com/wolt-ai)
-_(short tagline — what Wolt-AI does)_
+An AI assistant for your website.
 
 ### 🔁 [ReleaseFlow](https://releaseflow.tech)
 AI-powered release notes generator · Turn messy commits into polished notes instantly  
