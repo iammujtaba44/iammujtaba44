@@ -36,6 +36,16 @@ Software company I founded · Mobile, Web, Backend & Security services ·
 Products: **ReleaseFlow** (live) · **Woltap** · **Wolt-AI** · **Pal** (2026) — a screenless smart companion for kids aged 3–8  
 Built with Next.js · Flutter · NestJS · PostgreSQL
 
+### 📱 [Jeb — Private Expense Tracker](https://github.com/iammujtaba44/jeb)
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://github.com/iammujtaba44/jeb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-3FB984)](https://github.com/iammujtaba44/jeb/blob/master/LICENSE)
+[![TestFlight](https://img.shields.io/badge/iOS-TestFlight-0D96F6?logo=apple)](https://testflight.apple.com/join/5kvKAwkH)
+
+Privacy-first Flutter expense tracker — on-device storage, your-own-cloud sync
+(iCloud + Google Drive), budgets, plans, insights, multi-currency. Open source.  
+🔗 [Repo](https://github.com/iammujtaba44/jeb) · [Try on iOS](https://testflight.apple.com/join/5kvKAwkH) · [Android APK](https://github.com/iammujtaba44/jeb/releases/latest)
+
 ### ⚡ [Woltap](https://www.woltrap.com/woltap)
 Woltap is unified retail management software — sales, inventory, customer accounts, expenses, suppliers, and purchase orders, 
 all on the devices you already own. Online or off.
